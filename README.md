@@ -47,16 +47,6 @@ I'm currently focused on building:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zoewang66&show_icons=true&theme=default" alt="Zoe's GitHub Stats" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=zoewang66&style=flat-square&color=green" alt="Profile Views" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 📧 Email: wangpeiying96@gmail.com  
