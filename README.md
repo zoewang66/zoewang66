@@ -1,17 +1,22 @@
 <h1 align="center">Hi there 👋 I'm Zoe Wang</h1>
 
 <p align="center">
-  🧑‍💻 IT student in Brisbane · 💡 Front-end enthusiast · 🎯 Future full-stack developer
+  <img src="https://avatars.githubusercontent.com/zoewang66" width="120" style="border-radius: 50%;" alt="Zoe's GitHub Avatar" />
+</p>
+
+<p align="center">
+  🧑‍💻 IT student @ QUT · 💡 Front-end & full-stack learner · 🇦🇺 Based in Brisbane, open to regional opportunities
 </p>
 
 ---
 
 ### 🔍 About Me
 
-- 🎓 Master of IT (Software Development) @ QUT  
-- 💼 Software Developer Intern @ NDISP (2024)  
-- 🚀 Passionate about turning ideas into intuitive, real-world applications  
-- 🌏 Actively seeking part-time/full-time roles in **regional Australia**
+- 🎓 Master of IT (Software Development) @ Queensland University of Technology  
+- 💼 Front-end Developer Intern @ NDISP (2024)  
+- 💡 Passionate about creating user-friendly, accessible web apps — from Figma designs to responsive UIs  
+- 🌱 Currently building my skills in full-stack web development  
+- 🚀 Actively looking for part-time/intern roles that could lead to full-time, especially in **regional Australia**
 
 ---
 
@@ -26,18 +31,38 @@
 ### 💼 Highlight Projects
 
 - 🍼 **Baby Growth Record Website** – *React + MongoDB full-stack app (currently under development)*  
-- 🛒 **E-commerce Fruit Store** – *Python + Flask + Bootstrap + SQLite*  
-- 🎮 **Tank Game (Java)** – *OOP + GUI + Multi-threading*  
-- 🎲 **Board Game (C#)** – *UML, object-oriented design*
+- 🛒 **E-commerce Fruit Store** – *Flask-based web app simulating online orders & inventory*  
+- 🎮 **Tank Game** – *Interactive Java GUI game using OOP & multi-threading*  
+- 🎲 **Board Game System** – *C# OOP application with UML and event-driven design*
 
 ---
 
-### 📫 Let’s Connect
+### 🎯 Career Goals
 
-- 💌 Email: wangpeiying96@gmail.com  
-- 🌐 Portfolio in progress (stay tuned!)  
-- 🤝 Open to collaboration, especially in regional Australia 🇦🇺  
+I'm passionate about building digital tools that improve everyday life, especially for under-served communities.  
+I'm currently focused on building:
+- Practical apps from scratch 🛠️
+- End-to-end systems (frontend + backend + database)
+- Accessible and clean user interfaces
 
 ---
 
-<p align="center">Thanks for stopping by! 🌱</p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zoewang66&show_icons=true&theme=default" alt="Zoe's GitHub Stats" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=zoewang66&style=flat-square&color=green" alt="Profile Views" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: wangpeiying96@gmail.com  
+- 🌐 Portfolio site coming soon  
+- 🤝 Open to internships, part-time roles, and full-time positions across **regional Australia** 🇦🇺
+
+---
+
+<p align="center">Thanks for stopping by! Let's build something meaningful. 🌱</p>
