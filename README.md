@@ -1,11 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Zoe Wang</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/zoewang66" width="120" style="border-radius: 50%;" alt="Zoe's GitHub Avatar" />
-</p>
-
-<p align="center">
-  🧑‍💻 IT student @ QUT · 💡 Front-end & full-stack learner · 🇦🇺 Based in Brisbane, open to regional opportunities
+  🧑‍💻 IT student @ QUT · 💡 Junior Front-end & Full-stack developer · 🇦🇺 Based in Brisbane, open to regional opportunities
 </p>
 
 ---
