@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Zoe Wang</h1>
+<h1 align="center">Hi👋, I'm Zoe Wang</h1>
 
 <p align="center">
   🧑‍💻 IT student @ QUT · 💡 Junior Front-end & Full-stack developer · 🇦🇺 Based in Brisbane, open to regional opportunities
