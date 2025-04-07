@@ -46,7 +46,7 @@ I'm currently focused on building:
 ### 📫 Let's Connect
 
 - 📧 Email: wangpeiying96@gmail.com  
-- 🌐 Portfolio site coming soon  
+- 🌐 Portfolio site: https://codewithzoe.com 
 - 🤝 Open to internships, part-time roles, and full-time positions across **regional Australia** 🇦🇺
 
 ---
